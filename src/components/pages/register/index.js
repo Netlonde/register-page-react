@@ -31,7 +31,7 @@ function Login() {
             <button type="submit"><FaLinkedinIn size={20} /></button>
           </Icons>
 
-          <span>Or use your email to login</span>
+          <span>Or use your email to register</span>
 
           <form>
             <input type="text" placeholder="Name" />
