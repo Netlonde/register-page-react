@@ -1,4 +1,4 @@
-                                                   Todo list with React
+                                                   Register Page with React
 
 # :hammer_and_wrench: Technologies
 <ul>
@@ -27,7 +27,7 @@ The application will open in the browser on http://localhost:3000
 
 <ul>
   <li>
-    <a href="https://registernetlondedev.netlify.app/">Todo List</a>
+    <a href="https://registernetlondedev.netlify.app/">Register Page</a>
   </li>
 </ul>
 
