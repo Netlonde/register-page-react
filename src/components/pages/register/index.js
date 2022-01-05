@@ -11,9 +11,9 @@ function Login() {
       <BoxLeft>
         <h1>Welcome Back!</h1>
         <span>
-          To continue, sign in 
+          To continue, sign in with
           <br />
-          with your account.
+          your account.
         </span>
 
         <form>
