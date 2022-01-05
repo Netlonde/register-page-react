@@ -11,9 +11,9 @@ function Login() {
       <BoxLeft>
         <h1>Welcome Back!</h1>
         <span>
-          To keep connected with us
+          To continue, sign in 
           <br />
-          please create an account
+          with your account.
         </span>
 
         <form>
