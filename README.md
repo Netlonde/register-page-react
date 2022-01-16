@@ -29,7 +29,7 @@ The application will open in the browser on http://localhost:3000
 
 <ul>
   <li>
-    <a href="https://registernetlondedev.netlify.app/">Register Page</a>
+    <a href="https://autoluby.netlify.app/">AutoLuby</a>
   </li>
 </ul>
 
